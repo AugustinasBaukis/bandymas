@@ -1,8 +1,7 @@
 # Procesas
 
 - [ ] pradine failu struktura
-
-  -index.html
+-index.html
     -gitignore
 -[] paviesinti projekta per Github Pages (gausim URL)
 -[ ] README.md
